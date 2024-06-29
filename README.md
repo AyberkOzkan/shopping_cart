@@ -4,6 +4,8 @@ Bu proje, saf PHP kullanılarak MVC yapısında basit bir alışveriş sepeti uy
 
 Front-end kısmı arkaplanda bırakılmıştır.
 
+ ![shoppingCart](/img/shoppingCart.png)
+
 ---
 
 ## Proje İsterleri
